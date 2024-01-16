@@ -1,1 +1,1 @@
-#### Update CSS variable values using javascript
+#### Update CSS variable (spacing, blur, background color) values using javascript.
