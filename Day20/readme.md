@@ -1,1 +1,1 @@
-#### Use CSS to make verticle panels responsive.
+#### Generate text shadow effect by using CSS.
